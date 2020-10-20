@@ -2,4 +2,4 @@
 # Digital Creativity - Course work 
 Here is some random text
 
-![dc] (dc.jpg)
+![dc] (/dc.jpg)
