@@ -1,5 +1,10 @@
 # COM420
 # AE1 Assesment "Brand Yourself"
+
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RWtynkNp1m0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
   In the modern world we are constantly facing a large amount of information about goods and services offered by various companies and professionals, and it is challenging for a digital designer to create something that will stand out of the crowd. One of the main aspects is to implement a brand that is easily recognised and is memorable. The brand represents an identity and the basic element of the visual identity is the logo. Each logo has a story behind, therefore, in the following paragraphs I will be telling the story of how my logo has been created. 
 
  I have opted to brand myself as a digital designer and to create a logo of my name which can potentially be used in the future career.
