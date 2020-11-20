@@ -26,29 +26,29 @@
 
  
 
-##### **Research**
+#### **Research**
 
 I have started with a research on what represents a successful logo nowadays, all the dos and don’ts when creating a logo and what are the main points that should be considered. The main points are the physiology of the colour, proportion, appearance, visual appeal and the message that the logo represents. I have followed many social media accounts that are specialising in logo and branding designs, as well as some of famous digital designers. And what I noticed is that the simplicity is the most valued, a modern logo design is minimalist and memorable, using only a few letters or a single shape, or a shape representing a letter. According to various resources, numerous logos were created using the first letters or abbreviations, which consists in the fact that the first letter of the name of the organisation or several letters if there are several words in the name, these are then combined into a logo, in my case this would be the name initials. 
 
 Thinking about my logo appearance, I would like for it to be modern, elegant, having easy-to-read elements, trustworthy and memorable, and after all keeping it minimalist. But the logo is not only about the appearance and design idea, but also it has to have a strategy behind. 
 
-##### **Sketch**
+#### **Sketch**
 
 Before starting to work on the computer, I have first sketched some ideas on a dotted paper as it is easier to revise and make any amendments, plus the old ideas can be revisited anytime lately. Below are shown some of the initial sketches, although there were much more ideas in my head, I eliminated them all, since the task was to simplify and give the opportunity to make it memorable. I have first thought to create a logo as AM Designs, but this name can be recognised under many other brands, therefore, to make it unique I have decided to use my full name. 
 
 The main idea of the logo was to include both letters of my initials into a single symbol plus the full name where the screen resolution permits to do so. The symbol should be eye-catching and memorable, at the same time simple in structure. It is known that horizontal or vertical straight lines are associated with stability and tranquillity, therefore I have used straight lines and corners. 
 
-<img src="../../../Library/Application Support/typora-user-images/image-20201119231658867.png" alt="image-20201119231658867" style="zoom:50%;" />
 
- 
 
-##### **Feedback**
+<img src="Sketches.png" alt="Sketches" style="zoom: 33%;" /> 
+
+#### **Feedback**
 
 Once I have brought the variations down to two logos, I have asked five people for a feedback for each version. One of the feedbacks I have received was that one logo reminded them of some other brand, and the second one looks unique, simple and memorable. Based on each feedback received, the decision was made towards the logo I had my initial preference on, as well as some suggested amendments have been applied to it. Throughout the whole process of creation of my logo and representing it in other aspects, the feedbacks were received and appreciated. It is important to welcome any feedback especially if it is highlighting the flaws on the work done, as it helps seeing things from another angle and bringing the work to perfection. 
 
 
 
-##### Digital format
+#### Digital format
 
 For drawing the logo digitally, I have used Adobe Illustrator which was a new software to acknowledge. Fortunately, there are loads of resources that can help understanding the functionality of each of its tool. To transfer the logo from the sketches into digital format I have used geometrical shape such as triangles. Often geometrical shapes are used in creation of various illustrations, as it helps constructing these precisely keep the size consistent. The logo structuring process is shown below.
 
@@ -58,7 +58,7 @@ The logo at first sight can be associated with mountains, and the idea behind th
 
  
 
-##### **Colour**
+#### **Colour**
 
 Once the structure was finalised, the next and important stage was to decide on the colours. Besides design or text, another important aspect is colour, people associate colours with certain states, objects or actions. Statistics show that all the most famous and successful logos are monochrome, using only two or three colours. If more are used then it is becoming difficult to perceive and difficult to remember. And as my logo represents initials, two colours were used – Deep Space Sparkle (#3A6165) and Drizzle (#89B0AE). These are shades of green mixed with grey. The nature of green colour has a calming effect and it is harmonious. At the same time, green colour can bring not only pacification to the design, but also a powerful charge of energy and dynamics. And all because it has an infinite number of very different and invariably beautiful shades. And grey is modern colour representing wisdom and intelligence. 
 
@@ -74,13 +74,13 @@ The logo should be equally well reproduced in paint or on the screen and it shou
 
  
 
-##### **Font**
+#### **Font**
 
 When the logo contains some text, it should have an appropriate font. Choosing the font depends on the effect we want to create. For example, if we want the logo and style to be as a whole more modern, then the font will be as similar to the sign as possible in the stylistic dimensions and in the spirit of the times. Finding the perfect font for the logo is difficult, and sometimes it takes longer than creating the logo itself. Therefore, we should always expect that we can not only select the font, but can also redraw the details of the logo, bringing it closer to the selected font. Although, I had various options for font selection, the feedback from my friends and family helped me on this decision. For the name in logo I have used the font Gaultier Light because it is simple but at the same time elegant and appropriate to the industry. This way the typeface supports the mood and the sense of time. 
 
  
 
-##### **Business card**
+#### **Business card**
 
 It is know that the purpose of the business card is to deliver a person’s key contact information, but it is also believed that a percentage of successful business deals are due to the appearance of a business card. If it is poorly designed, difficult to read or its appearance associates with a different industry, chances are high that the person will never be contacted. That is why it is crucial to create a good and practical business card that will serve its purpose. When I was thinking about my business card appearance, I wanted to keep it simple, modern and for it to suggest the industry of the offered services. 
 
@@ -98,7 +98,7 @@ Another important aspect is to select the appropriate font, as close as possible
 
  
 
-##### **Landing page**
+#### **Landing page**
 
 The logo must resist scaling, so it can be enlarged and reduced in a wide range of sizes without loss of legibility and distinctive shape. In the below example is shown how my logo can be used on a website, resizing it to a smaller format to fit in the left top corner. For the smaller screen resolution and favicon, the logo symbol will only be used, without the name. 
 
